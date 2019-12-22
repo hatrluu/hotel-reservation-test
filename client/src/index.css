@@ -1,0 +1,11 @@
+.navbar {
+  height: 10vh;
+}
+
+.navbar .navbar-nav {
+  flex-direction: row;
+}
+
+.navbar .navbar-nav .nav-item{
+  padding: 1em;
+}
